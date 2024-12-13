@@ -9,7 +9,7 @@ double myPow(double x, int n){
     return x * pow(x, n-1);
 }
 
-
+//Apenas para teste direto de valores diferentes
 int main()
 {
     double pot = myPow(2, 10);
